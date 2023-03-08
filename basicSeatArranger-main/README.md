@@ -1,0 +1,1 @@
+This is one of my cpp practices I did while I learning. In advance, I want to say a few words about this code. First you need to fill first-class seats for proper code-running. I know it's nonsense but I'll be honest I didn't want to write more code. I obtained the experience that I need. You can check it too for your self-learn.

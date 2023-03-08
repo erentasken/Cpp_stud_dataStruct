@@ -1,0 +1,5 @@
+bugra 30 
+deniz 25
+can 35
+feyza 32
+elif 27
